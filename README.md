@@ -1,4 +1,7 @@
 # git-Folder
 it is my first Git Repository.
 <br>
-<b>KAMAL</b>
+<style color:green>
+  <b>KAMAL</b>
+</style>
+
